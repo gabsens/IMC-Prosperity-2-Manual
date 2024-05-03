@@ -1,6 +1,6 @@
 # Manual trading challenges in IMC Prosperity 2
 
-In April 2024, IMC Trading ran the second edition of the [Prosperity challenge](https://prosperity.imc.com/).
+IMC Trading ran the second edition of the [Prosperity challenge](https://prosperity.imc.com/) in April 2024.
 It was made up of 5 rounds, each having an algorithmic and a manual trading challenge.
 
 This repository contains my detailed write-ups for the manual trading challenges.  
